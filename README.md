@@ -1,4 +1,16 @@
-## Hi there 👋
+## About me 👋
+I work in operations intelligence, an area that is also known as data analysis, process analysis or business analysis. I can transformin raw data into information that can be used for strategic decision making in companies!
+
+I have more than 3 years of experience in the Operations and Process area. I worked with SQL, Azure DevOps, Power BI, Dashboards and statistics to supoprt the implementation of systems and projects. I also have knowledge of Python, and add other programming languages as needed for data analysis.
+
+I have a degree in Operations Engineering and Science and Technology, both from the Federal University of ABC, and I also did an cultural exchange in Canada in 2014.
+
+I just concluded a 400-hour Data Analytics bootcamp in Le Wagon Programming School, to improve my knowledge in Data Analysis.
+
+I am available to exchange information, experiences in these areas or have a coffee, at these contacts:
+dpontes.lucas@gmail.com
++55 18 981254513
+
 
 <!--
 **lucas-dpontes/lucas-dpontes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
