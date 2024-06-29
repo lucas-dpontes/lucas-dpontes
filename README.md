@@ -1,4 +1,4 @@
-## About me 👋
+# Lucas Pontes
 I work in operations intelligence, an area that is also known as data analysis, process analysis or business analysis. I can transformin raw data into information that can be used for strategic decision making in companies!
 
 I have more than 3 years of experience in the Operations and Process area. I worked with SQL, Azure DevOps, Power BI, Dashboards and statistics to supoprt the implementation of systems and projects. I also have knowledge of Python, and add other programming languages as needed for data analysis.
