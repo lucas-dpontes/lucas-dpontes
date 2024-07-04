@@ -11,6 +11,9 @@ I am available to exchange information, experiences in these areas or have a cof
 dpontes.lucas@gmail.com
 +55 18 981254513
 
+**Languages and Tools:**
+
+<img src="https://github.com/lucas-dpontes/lucas-dpontes/blob/main/python-logo.png"> <img src="https://github.com/lucas-dpontes/lucas-dpontes/blob/main/google-bigquery-logo.png">
 
 <!--
 **lucas-dpontes/lucas-dpontes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
