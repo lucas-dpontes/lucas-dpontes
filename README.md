@@ -13,7 +13,7 @@ dpontes.lucas@gmail.com
 
 **Languages and Tools:**
 
-<img src="https://github.com/lucas-dpontes/lucas-dpontes/blob/main/logo-python.png" width=50> <img src="https://github.com/lucas-dpontes/lucas-dpontes/blob/main/logo-google-bigquery.png" width=55> <img src="https://github.com/lucas-dpontes/lucas-dpontes/blob/main/jupyter-logo.png" width=50>
+<img src="https://github.com/lucas-dpontes/lucas-dpontes/blob/main/logo-python.png" width=50> <img src="https://github.com/lucas-dpontes/lucas-dpontes/blob/main/logo-google-bigquery.png" width=55> <img src="https://github.com/lucas-dpontes/lucas-dpontes/blob/main/jupyter-logo.png" width=45>
 
 <!--
 **lucas-dpontes/lucas-dpontes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
