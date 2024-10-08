@@ -15,7 +15,7 @@ dpontes.lucas@gmail.com
 
 <img src="https://github.com/lucas-dpontes/lucas-dpontes/blob/main/logo-python.png" width=50> <img src="https://github.com/lucas-dpontes/lucas-dpontes/blob/main/logo-google-bigquery.png" width=55> <img src="https://github.com/lucas-dpontes/lucas-dpontes/blob/main/jupyter-logo.png" width=45>
 
-**Contact**
+**Contact:**
 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/lucasdpontes/)
 [<img src='https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red' alt='dpontes.lucas@gmail.com' height='30'>](mailto:dpontes.lucas@gmail.com)
