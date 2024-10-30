@@ -13,7 +13,7 @@ dpontes.lucas@gmail.com
 
 **Languages and Tools:**
 
-<img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Python.svg" width="70" height="70"> <img src="https://github.com/lucas-dpontes/lucas-dpontes/blob/main/logo-google-bigquery.png" width="70" height="65"> <img src="https://github.com/lucas-dpontes/lucas-dpontes/blob/main/jupyter-logo.png" width="70" height="70"><img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Google%20Cloud.svg" width="70" height="70"/>
+<img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Python.svg" width="70" height="70"> <img src="https://github.com/lucas-dpontes/lucas-dpontes/blob/main/logo-google-bigquery.png" width="70" height="65"> <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Google%20Cloud.svg" width="70" height="70"/> <img src="https://github.com/lucas-dpontes/lucas-dpontes/blob/main/jupyter-logo.png" width="70" height="70"> <img src="https://github.com/lucas-dpontes/lucas-dpontes/blob/main/collab-logo.png" width="70" height="70">
 
 **Contact:**
 
