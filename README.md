@@ -7,8 +7,6 @@
 
 📈 I recently finished a 400-hour Data Analytics bootcamp in Le Wagon school, to improve my knowledge in Data Analysis, and I am studying Data Science at EBAC (the British School of Creative Arts & Technology).
 
-👨‍💻 See my potfolio: github.com/lucas-dpontes
-
 I am available to exchange information, experiences in these areas or have a coffee, at these contacts:
 dpontes.lucas@gmail.com
 +55 18 981254513
