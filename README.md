@@ -7,6 +7,8 @@
 
 📈 I recently finished a 400-hour Data Analytics bootcamp in Le Wagon school, to improve my knowledge in Data Analysis, and I am studying Data Science at EBAC (the British School of Creative Arts & Technology).
 
+🌐 To enhance my experiences in the data field, I have participated in themed hackathons, having won the LLaMa Impact Hackathon organized by Meta.
+
 I am available to exchange information, experiences in these areas or have a coffee, at these contacts:<br>
 dpontes.lucas@gmail.com<br>
 +55 18 981254513
